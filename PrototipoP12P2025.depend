@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1744127368 source:c:\users\ferit\documents\progra1git\progra1works\prototipop12p2025\main.cpp
+	<iostream>
+	"liga.h"
+	<vector>
+
+1744127137 c:\users\ferit\documents\progra1git\progra1works\prototipop12p2025\liga.h
+	<string>
+	<vector>
+
+1744127434 source:c:\users\ferit\documents\progra1git\progra1works\prototipop12p2025\liga.cpp
+	"liga.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
